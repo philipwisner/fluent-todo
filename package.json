@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@uifabric/experiments": "6.74.2",
+    "@uifabric/experiments": "6.84.0",
     "@uifabric/fluent-theme": "0.16.6",
     "node-sass": "4.12.0",
     "office-ui-fabric-core": "10.0.0",
